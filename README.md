@@ -1,5 +1,5 @@
 # Symfony-autoformation
 
-Redme symfony 
--
-Test : Branche maj
+Readme symfony 
+ 
+Test : Branche majj
